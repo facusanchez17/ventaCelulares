@@ -1,4 +1,4 @@
-fetch('js_json/smartphones.json')
+fetch('../js_json/smartphones.json')
   .then(response => response.json())
   .then(data => {
     const smartphoneList = document.getElementById('smartphone-list');
