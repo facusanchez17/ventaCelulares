@@ -1,0 +1,282 @@
+{
+    "smartphones": [
+      {
+        "nombre": "iPhone 13 Pro",
+        "especificaciones": "Pantalla Super Retina XDR de 6.1 pulgadas, Chip A15 Bionic, almacenamiento de 128GB, sistema de triple cámara de 12MP, Face ID",
+        "precio": "$999",
+        "pagina": "/html_css/html_celulares/iphone13pro.html",
+        "imagen": "/img/iphone13pro.png",
+        "destacado":true
+      },
+      {
+        "nombre": "Samsung Galaxy S21 Ultra",
+        "especificaciones": "Pantalla Dynamic AMOLED 2X de 6.8 pulgadas, Chip Exynos 2100/Snapdragon 888, almacenamiento de 128GB, sistema de cámara cuádruple de 108MP, sensor de huellas dactilares ultrasónico",
+        "precio": "$1,199",
+        "pagina": "/html_css/html_celulares/s21ultra.html",
+        "imagen": "/img/s21ultra.png",
+        "destacado":true
+      },
+      {
+        "nombre": "Google Pixel 6 Pro",
+        "especificaciones": "Pantalla OLED LTPO de 6.7 pulgadas QHD+, Chip Google Tensor, almacenamiento de 128GB, sistema de cámara dual de 50MP, chip de seguridad Titan M2",
+        "precio": "$999",
+        "pagina": "/html_css/html_celulares/pixel6pro.html",
+        "imagen": "/img/pixel6pro.png"
+      },
+      {
+        "nombre": "OnePlus 9 Pro",
+        "especificaciones": "Pantalla Fluid AMOLED de 6.7 pulgadas, Chip Snapdragon 888, almacenamiento de 256GB, sistema de cámara cuádruple de 48MP, Warp Charge 65T",
+        "precio": "$969",
+        "pagina": "/html_css/html_celulares/oneplus9pro.html",
+        "imagen": "/img/oneplus9pro.png"
+      },
+      {
+        "nombre": "Xiaomi Mi 11 Ultra",
+        "especificaciones": "Pantalla AMOLED Quad-curve de 6.81 pulgadas, Chip Snapdragon 888, almacenamiento de 256GB, sistema de cámara triple de 50MP, carga rápida de 67W con cable e inalámbrica",
+        "precio": "$1,199",
+        "pagina": "/html_css/html_celulares/mi11ultra.html",
+        "imagen": "/img/mi11ultra.png",
+        "destacado":true
+      },
+      {
+        "nombre": "Samsung Galaxy Z Fold 3",
+        "especificaciones": "Pantalla Dynamic AMOLED 2X de 7.6 pulgadas (principal), Chip Snapdragon 888, almacenamiento de 256GB, sistema de triple cámara de 12MP, compatibilidad con S Pen",
+        "precio": "$1,799",
+        "pagina": "/html_css/html_celulares/zfold3.html",
+        "imagen": "/img/zfold3.png",
+        "destacado":true
+      },
+      {
+        "nombre": "iPhone 13 mini",
+        "especificaciones": "Pantalla Super Retina XDR de 5.4 pulgadas, Chip A15 Bionic, almacenamiento de 128GB, sistema de cámara dual de 12MP, Face ID",
+        "precio": "$699",
+        "pagina": "/html_css/html_celulares/iphone13mini.html",
+        "imagen": "/img/iphone13mini.png"
+      },
+      {
+        "nombre": "Samsung Galaxy Note 20 Ultra",
+        "especificaciones": "Pantalla Dynamic AMOLED 2X de 6.9 pulgadas, Chip Exynos 990/Snapdragon 865+, almacenamiento de 128GB, sistema de cámara triple de 108MP, S Pen",
+        "precio": "$1,299",
+        "pagina": "/html_css/html_celulares/note20ultra.html",
+        "imagen": "/img/note20ultra.png"
+      },
+      {
+        "nombre": "Google Pixel 5",
+        "especificaciones": "Pantalla OLED de 6.0 pulgadas, Chip Snapdragon 765G, almacenamiento de 128GB, sistema de cámara dual de 12.2MP, carga inalámbrica",
+        "precio": "$699",
+        "pagina": "/html_css/html_celulares/pixel5.html",
+        "imagen": "/img/pixel5.png"
+      },
+      {
+        "nombre": "OnePlus 8 Pro",
+        "especificaciones": "Pantalla Fluid AMOLED de 6.78 pulgadas, Chip Snapdragon 865, almacenamiento de 128GB, sistema de cámara cuádruple de 48MP, Warp Charge 30T",
+        "precio": "$899",
+        "pagina": "/html_css/html_celulares/oneplus8pro.html",
+        "imagen": "/img/oneplus8pro.png"
+      },
+      {
+        "nombre": "Xiaomi Mi 10 Pro",
+        "especificaciones": "Pantalla AMOLED de 6.67 pulgadas, Chip Snapdragon 865, almacenamiento de 256GB, sistema de cámara cuádruple de 108MP, carga rápida de 50W",
+        "precio": "$999",
+        "pagina": "/html_css/html_celulares/mi10pro.html",
+        "imagen": "/img/mi10pro.png"
+      },
+      {
+        "nombre": "Samsung Galaxy A52",
+        "especificaciones": "Pantalla Super AMOLED de 6.5 pulgadas, Chip Snapdragon 720G, almacenamiento de 128GB, sistema de cámara cuádruple de 64MP, batería de 4500mAh",
+        "precio": "$349",
+        "pagina": "/html_css/html_celulares/galaxya52.html",
+        "imagen": "/img/galaxya52.png",
+        "destacado":true
+      },
+      {
+        "nombre": "iPhone SE (2020)",
+        "especificaciones": "Pantalla Retina HD de 4.7 pulgadas, Chip A13 Bionic, almacenamiento de 64GB, sistema de cámara de 12MP, Touch ID",
+        "precio": "$399",
+        "pagina": "/html_css/html_celulares/se2020.html",
+        "imagen": "/img/se2020.png"
+      },
+      {
+        "nombre": "Motorola Moto G9 Power",
+        "especificaciones": "Pantalla IPS LCD de 6.8 pulgadas, Chip Snapdragon 662, almacenamiento de 128GB, sistema de cámara triple de 64MP, batería de 6000mAh",
+        "precio": "$249",
+        "pagina": "/html_css/html_celulares/motog9power.html",
+        "imagen": "/img/motog9power.png",
+        "destacado": true
+      },
+      {
+        "nombre": "Sony Xperia 1 III",
+        "especificaciones": "Pantalla OLED CinemaWide de 6.5 pulgadas 4K HDR, Chip Snapdragon 888, almacenamiento de 256GB, sistema de cámara triple de 12MP, 4500mAh",
+        "precio": "$1,299",
+        "pagina": "/html_css/html_celulares/xperia1iii.html",
+        "imagen": "/img/xperia1iii.png",
+        "destacado": true
+      },
+      {
+        "nombre": "LG Wing",
+        "especificaciones": "Pantalla P-OLED FullVision de 6.8 pulgadas (principal), Chip Snapdragon 765G, almacenamiento de 128GB, sistema de cámara triple de 64MP, modo Swivel",
+        "precio": "$999",
+        "pagina": "/html_css/html_celulares/lgwing.html",
+        "imagen": "/img/lgwing.png"
+      },
+      {
+        "nombre": "Huawei P40 Pro",
+        "especificaciones": "Pantalla OLED de 6.58 pulgadas, Chip Kirin 990 5G, almacenamiento de 256GB, sistema de cámara cuádruple de 50MP, carga rápida de 40W",
+        "precio": "$999",
+        "pagina": "/html_css/html_celulares/p40pro.html",
+        "imagen": "/img/p40pro.png"
+      },
+      {
+        "nombre": "Oppo Find X3 Pro",
+        "especificaciones": "Pantalla AMOLED de 6.7 pulgadas, Chip Snapdragon 888, almacenamiento de 256GB, sistema de cámara cuádruple de 50MP, carga rápida de 65W",
+        "precio": "$1,199",
+        "pagina": "/html_css/html_celulares/findx3pro.html",
+        "imagen": "/img/findx3pro.png"
+      },
+      {
+        "nombre": "Realme 8 Pro",
+        "especificaciones": "Pantalla Super AMOLED de 6.4 pulgadas, Chip Snapdragon 720G, almacenamiento de 128GB, sistema de cámara cuádruple de 108MP, carga rápida de 50W",
+        "precio": "$279",
+        "pagina": "/html_css/html_celulares/realme8pro.html",
+        "imagen": "/img/realme8pro.png",
+        "destacado":true
+      },
+      {
+        "nombre": "Vivo X60 Pro+",
+        "especificaciones": "Pantalla AMOLED de 6.56 pulgadas, Chip Snapdragon 888, almacenamiento de 256GB, sistema de cámara cuádruple de 50MP, carga rápida de 55W",
+        "precio": "$999",
+        "pagina": "/html_css/html_celulares/vivox60pro.html",
+        "imagen": "/img/vivox60pro.png",
+        "destacado":true
+      },
+      {
+        "nombre": "Motorola Edge+",
+        "especificaciones": "Pantalla OLED de 6.7 pulgadas, Chip Snapdragon 865, almacenamiento de 256GB, sistema de cámara cuádruple de 108MP, carga rápida de 18W",
+        "precio": "$999",
+        "pagina": "/html_css/html_celulares/motoedgeplus.html",
+        "imagen": "/img/motoedgeplus.png"
+      },
+      {
+        "nombre": "Sony Xperia 5 III",
+        "especificaciones": "Pantalla OLED CinemaWide de 6.1 pulgadas 4K HDR, Chip Snapdragon 888, almacenamiento de 128GB, sistema de cámara triple de 12MP, 4500mAh",
+        "precio": "$1,099",
+        "pagina": "/html_css/html_celulares/xperia5iii.html",
+        "imagen": "/img/xperia5iii.png",
+        "destacado": true
+      },
+      {
+        "nombre": "LG Velvet",
+        "especificaciones": "Pantalla P-OLED FullVision de 6.8 pulgadas, Chip Snapdragon 765G, almacenamiento de 128GB, sistema de cámara triple de 48MP, batería de 4300mAh",
+        "precio": "$699",
+        "pagina": "/html_css/html_celulares/lgvelvet.html",
+        "imagen": "/img/lgvelvet.png",
+        "destacado":true
+      },
+      {
+        "nombre": "Nokia X20",
+        "especificaciones": "Pantalla IPS LCD de 6.67 pulgadas, Chip Snapdragon 480, almacenamiento de 128GB, sistema de cámara cuádruple de 64MP, batería de 4470mAh",
+        "precio": "$349",
+        "pagina": "/html_css/html_celulares/nokiax20.html",
+        "imagen": "/img/nokiax20.png"
+      },
+      {
+        "nombre": "Motorola Razr 5G",
+        "especificaciones": "Pantalla pOLED de 6.2 pulgadas (principal), Chip Snapdragon 765G, almacenamiento de 256GB, sistema de cámara de 48MP, batería de 2800mAh",
+        "precio": "$1,399",
+        "pagina": "/html_css/html_celulares/motorolarazr5g.html",
+        "imagen": "/img/motorolarazr5g.png",
+        "destacado": true
+      },
+      {
+        "nombre": "Xiaomi Redmi Note 10 Pro",
+        "especificaciones": "Pantalla AMOLED de 6.67 pulgadas, Chip Snapdragon 732G, almacenamiento de 128GB, sistema de cámara cuádruple de 108MP, batería de 5020mAh",
+        "precio": "$279",
+        "pagina": "/html_css/html_celulares/redminote10pro.html",
+        "imagen": "/img/redminote10pro.png"
+      },
+      {
+        "nombre": "OnePlus Nord 2",
+        "especificaciones": "Pantalla Fluid AMOLED de 6.43 pulgadas, Chip MediaTek Dimensity 1200, almacenamiento de 128GB, sistema de cámara triple de 50MP, carga rápida de 65W",
+        "precio": "$399",
+        "pagina": "/html_css/html_celulares/oneplusnord2.html",
+        "imagen": "/img/oneplusnord2.png"
+      },
+      {
+        "nombre": "Google Pixel 4a",
+        "especificaciones": "Pantalla OLED de 5.81 pulgadas, Chip Snapdragon 730G, almacenamiento de 128GB, sistema de cámara de 12.2MP, batería de 3140mAh",
+        "precio": "$349",
+        "pagina": "/html_css/html_celulares/pixel4a.html",
+        "imagen": "/img/pixel4a.png"
+      },
+      {
+        "nombre": "Samsung Galaxy S20 FE",
+        "especificaciones": "Pantalla Super AMOLED de 6.5 pulgadas, Chip Exynos 990/Snapdragon 865, almacenamiento de 128GB, sistema de cámara triple de 12MP, batería de 4500mAh",
+        "precio": "$699",
+        "pagina": "/html_css/html_celulares/s20fe.html",
+        "imagen": "/img/s20fe.png"
+      },
+      {
+        "nombre": "Samsung Galaxy A72",
+        "especificaciones": "Pantalla Super AMOLED de 6.7 pulgadas, Chip Snapdragon 720G, almacenamiento de 128GB, sistema de cámara cuádruple de 64MP, batería de 5000mAh",
+        "precio": "$499",
+        "pagina": "/html_css/html_celulares/a72.html",
+        "imagen": "/img/a72.png"
+      },
+      {
+        "nombre": "iPhone 12",
+        "especificaciones": "Pantalla Super Retina XDR de 6.1 pulgadas, Chip A14 Bionic, almacenamiento de 64GB, sistema de cámara dual de 12MP, Face ID",
+        "precio": "$799",
+        "pagina": "/html_css/html_celulares/iphone12.html",
+        "imagen": "/img/iphone12.png"
+      },
+      {
+        "nombre": "iPhone XR",
+        "especificaciones": "Pantalla Liquid Retina HD de 6.1 pulgadas, Chip A12 Bionic, almacenamiento de 64GB, sistema de cámara de 12MP, Face ID",
+        "precio": "$599",
+        "pagina": "/html_css/html_celulares/iphonexr.html",
+        "imagen": "/img/iphonexr.png"
+      },
+      {
+        "nombre": "Google Pixel 4 XL",
+        "especificaciones": "Pantalla OLED de 6.3 pulgadas, Chip Snapdragon 855, almacenamiento de 64GB, sistema de cámara dual de 12.2MP, carga rápida de 18W",
+        "precio": "$899",
+        "pagina": "/html_css/html_celulares/pixel4xl.html",
+        "imagen": "/img/pixel4xl.png"
+      },
+      {
+        "nombre": "Google Pixel 3a",
+        "especificaciones": "Pantalla OLED de 5.6 pulgadas, Chip Snapdragon 670, almacenamiento de 64GB, sistema de cámara de 12.2MP, carga rápida de 18W",
+        "precio": "$399",
+        "pagina": "/html_css/html_celulares/pixel3a.html",
+        "imagen": "/img/pixel3a.png"
+      },
+      {
+        "nombre": "OnePlus 7T",
+        "especificaciones": "Pantalla Fluid AMOLED de 6.55 pulgadas, Chip Snapdragon 855+, almacenamiento de 128GB, sistema de cámara triple de 48MP, carga rápida Warp Charge 30T",
+        "precio": "$599",
+        "pagina": "/html_css/html_celulares/oneplus7t.html",
+        "imagen": "/img/oneplus7t.png"
+      },
+      {
+        "nombre": "OnePlus 6T",
+        "especificaciones": "Pantalla AMOLED de 6.41 pulgadas, Chip Snapdragon 845, almacenamiento de 128GB, sistema de cámara dual de 16MP, carga rápida Dash Charge",
+        "precio": "$549",
+        "pagina": "/html_css/html_celulares/oneplus6t.html",
+        "imagen": "/img/oneplus6t.png"
+      },
+      {
+        "nombre": "Xiaomi Mi 9T Pro",
+        "especificaciones": "Pantalla AMOLED de 6.39 pulgadas, Chip Snapdragon 855, almacenamiento de 128GB, sistema de cámara triple de 48MP, batería de 4000mAh",
+        "precio": "$449",
+        "pagina": "/html_css/html_celulares/mi9tpro.html",
+        "imagen": "/img/mi9tpro.png"
+      },
+      {
+        "nombre": "Xiaomi Redmi Note 9S",
+        "especificaciones": "Pantalla IPS LCD de 6.67 pulgadas, Chip Snapdragon 720G, almacenamiento de 128GB, sistema de cámara cuádruple de 48MP, batería de 5020mAh",
+        "precio": "$249",
+        "pagina": "/html_css/html_celulares/redminote9s.html",
+        "imagen": "/img/redminote9s.png"
+      }
+    ]
+  }

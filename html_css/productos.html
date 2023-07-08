@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tienda de Celulares</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+  <link rel="stylesheet" href="/html_css/styles.css">
+  <script src="/js_json/script_productos.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/alpinejs/3.10.2/cdn.js"></script>
+</head>
+<body>
+
+  <h1>Tienda de Celulares</h1>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="/index.html" id="nave">Inicio</a></li>
+        <li><a href="productos.html" id="nave">Productos</a></li>
+        <li>
+          <div class="dropdown-cont" id="drop-cont">
+            <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" id="b_cont">
+              Contacto
+            </button>
+            <ul class="dropdown-menu" id="contacto-redes">
+              <li id="fila-redes"><a class="dropdown-item" target="_blank" href="https://www.instagram.com/facusanchez_17/" id="redes"><img src="/img/instagram.png">Instagram</a></li>
+              <li id="fila-redes"><a class="dropdown-item" target="_blank" href="https://twitter.com/facusanchez105" id="redes"><img src="/img/twitter.png">Twitter</a></li>
+              <li id="fila-redes"><a class="dropdown-item" target="_blank" href="https://www.facebook.com/facu.sanchez.144" id="redes"><img src="/img/facebook.png">Facebook</a></li>
+              <li id="fila-redes"><a class="dropdown-item" target="_blank" href="https://www.youtube.com/channel/UCaTTeSD1PCR6CFC9mBbV4Yw" id="redes"><img src="/img/youtube.png">Youtube</a></li>
+            </ul>
+          </div>
+        </li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+
+    <div class="container">
+      <div class="dropdown">
+        <span id="flechita">&#9664;</span> <!-- Flecha o ícono hacia la izquierda -->
+        <label for="flechita">FILTRAR</label>
+        <div class="dropdown-menu">
+          <!-- Contenido del menú desplegable (opciones de filtrado) -->
+          <ul>
+            <li id="filtroMarca" class="filtrom">
+              
+                <select id="marcaFiltrada">
+                    <option value="todos" id="opcion-filtro">Todos</option>
+                    <option value="iphone" id="opcion-filtro">Iphone</option>
+                    <option value="samsung" id="opcion-filtro">Samsung</option>
+                    <option value="xiaomi" id="opcion-filtro">Xiaomi</option>
+                    <option value="oneplus" id="opcion-filtro">OnePlus</option>
+                    <option value="google" id="opcion-filtro">Google Pixel</option>
+                    <option value="sony" id="opcion-filtro">Sony</option>
+                    <option value="oppo" id="opcion-filtro">Oppo</option>
+                    <option value="lg" id="opcion-filtro">LG</option>
+                    <option value="huawei" id="opcion-filtro">Huawei</option>
+                    <option value="realme" id="opcion-filtro">Realme</option>
+                    <option value="vivo" id="opcion-filtro">Vivo</option>
+                    <option value="moto" id="opcion-filtro">Motorola</option>
+                    <option value="nokia" id="opcion-filtro">Nokia</option>
+                </select>
+            </li>
+            <li id="filtroMarca" class="filtrom"><button id="ordenarAscendente" class="ordPrecio">Precio ⬆️</button></li>
+            <li id="filtroMarca" class="filtrom"><button id="ordenarDescendente" class="ordPrecio">Precio ⬇️</button></li>
+          </ul>
+        </div>
+      </div>
+      <div class="content">
+  
+    
+
+    <!-- NUEVO B5-->
+    <main class="container">
+      <section id="destacados" class="row">
+        <h2 class="col-12">TODOS NUESTROS CELULARES</h2>
+        
+        <div class="smartphone-list col-12" id="smartphone-list"></div>
+      </section>
+    </main>
+
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Tienda de Celulares. Todos los derechos reservados.</p>
+  </footer>  
+
+  
+</body>
+</html>

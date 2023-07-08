@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tienda de Celulares</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+  <link rel="stylesheet" href="/html_css/styles.css">
+</head>
+<body>
+    <h1>Tienda de Celulares</h1>
+
+    <!-- ENCABEZADO -->
+    <header>
+      <nav>
+        <ul>
+          <li><a href="/index.html" id="nave">Inicio</a></li>
+          <li><a href="/html_css/productos.html" id="nave">Productos</a></li>
+          <li>
+            <div class="dropdown-cont" id="drop-cont">
+              <button class="btn btn-secondary dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" id="b_cont">
+                Contacto
+              </button>
+              <ul class="dropdown-menu" id="contacto-redes">
+                <li id="fila-redes"><a class="dropdown-item" target="_blank" href="https://www.instagram.com/facusanchez_17/" id="redes"><img src="/img/instagram.png">Instagram</a></li>
+                <li id="fila-redes"><a class="dropdown-item" target="_blank" href="https://twitter.com/facusanchez105" id="redes"><img src="/img/twitter.png">Twitter</a></li>
+                <li id="fila-redes"><a class="dropdown-item" target="_blank" href="https://www.facebook.com/facu.sanchez.144" id="redes"><img src="/img/facebook.png">Facebook</a></li>
+                <li id="fila-redes"><a class="dropdown-item" target="_blank" href="https://www.youtube.com/channel/UCaTTeSD1PCR6CFC9mBbV4Yw" id="redes"><img src="/img/youtube.png">Youtube</a></li>
+              </ul>
+            </div>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    
+
+    <!-- CUERPO PRINCIPAL -->
+    <main class="container">
+      <section id="destacados" class="row">
+
+        <div class="intro" id="contenedorinicio">
+
+          <div class="row">
+
+            <div class="col-sm-6" id="qsomos">
+              
+              <div class="accordion accordion-flush" id="accordionFlushExample">
+                <div class="accordion-item" id="item-acordion">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne" id="boton-acordion">
+                      QUIENES SOMOS
+                    </button>
+                  </h2>
+                  <div id="flush-collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body" id="text-acordion">Nuestra tienda de celulares es un referente en el mundo de la tecnología móvil. Desde nuestro inicio, nos hemos dedicado a ofrecer a nuestros clientes una experiencia excepcional al adquirir dispositivos móviles y accesorios. Nos enorgullece brindar productos de alta calidad y servicios de vanguardia para satisfacer las necesidades tecnológicas de nuestros clientes</div>
+                  </div>
+                </div>
+                <div class="accordion-item" id="item-acordion">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo" id="boton-acordion">
+                      NUESTRA MISION
+                    </button>
+                  </h2>
+                  <div id="flush-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body" id="text-acordion">Nuestra misión es brindar a nuestros clientes una experiencia de compra inigualable, basada en la excelencia del servicio al cliente y la calidad de nuestros productos. Trabajamos arduamente para ofrecer una selección diversa de celulares y accesorios de marcas reconocidas, asegurando que cada cliente encuentre el dispositivo perfecto que se ajuste a sus necesidades y preferencias. Además, nos comprometemos a proporcionar un servicio técnico confiable y eficiente para garantizar la satisfacción total de nuestros clientes</div>
+                  </div>
+                </div>
+                <div class="accordion-item" id="item-acordion">
+                  <h2 class="accordion-header">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree" id="boton-acordion">
+                      NUESTRA VISION
+                    </button>
+                  </h2>
+                  <div id="flush-collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body" id="text-acordion">Nuestra visión es convertirnos en la tienda de celulares preferida a nivel nacional, reconocida por ofrecer una amplia gama de productos y servicios de alta calidad. Nos esforzamos por estar a la vanguardia de las últimas tendencias tecnológicas y proporcionar a nuestros clientes soluciones innovadoras que mejoren su vida diaria</div>
+                  </div>
+                </div>
+              </div>
+             
+            </div>
+
+            <div class="col-sm-6" id="cimg">
+              
+              <div id="carouselExampleCaptions" class="carousel slide">
+                <div class="carousel-indicators">
+                  <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                  <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                  <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                </div>
+                <div class="carousel-inner">
+                  <div class="carousel-item active">
+                    <img src="/img/carrousel1.png" class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block">
+                      <h5 class="carousel1">VENTA DE CELULARES</h5>
+                      <p class="carousel1">La tienda mas confiable en la compraventa de smartphones</p>
+                    </div>
+                  </div>
+                  <div class="carousel-item">
+                    <img src="/img/carrousel2.png" class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block">
+                      <h5 class="carousel1">SERVICIO TÉCNICO</h5>
+                      <p class="carousel1">Traé tus dispositivos y nosotros te lo arreglamos</p>
+                    </div>
+                  </div>
+                  <div class="carousel-item">
+                    <img src="/img/carrousel3.png" class="d-block w-100" alt="...">
+                    <div class="carousel-caption d-none d-md-block">
+                      <h5 class="carousel1">VENTA DE ACCESORIOS</h5>
+                      <p class="carousel1">Tenemos los mejores accesorios y para todos tus dispositivos</p>
+                    </div>
+                  </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Next</span>
+                </button>
+              </div>
+
+            </div>
+
+          </div>
+        </div>
+        
+        <h2 class="col-12">CELULARES DESTACADOS</h2>
+
+        <div class="smartphone-list col-12" id="smartphone-list"></div>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2023 Tienda de Celulares. Todos los derechos reservados.</p>
+    </footer>
+
+    <script src="/js_json/script.js"></script>
+</body>
+</html>
